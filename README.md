@@ -35,12 +35,16 @@
 
 ---
 
-<!-- <details>
+<details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="BadassHenkka's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="BadassHenkka's Github Stats" src="https://https://github-readme-stats.badasshenkka.vercel.app/api?username=BadassHenkka&show_icons=true&hide_border=true&hide=stars,issues&count_private=true&theme=radical" />
 
-</details> -->
+  <br />
+
+  <img align="left" alt="BadassHenkka's Top Languages" src="https://https://github-readme-stats.badasshenkka.vercel.app/api/top-langs/?username=BadassHenkka&layout=compact" />
+
+</details>
 
 [website]: https://badasshenkka.github.io/
 [linkedin]: https://fi.linkedin.com/in/henri-kestio

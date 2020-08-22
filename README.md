@@ -1,6 +1,6 @@
 ### Hi there, I'm Henri - aka [BadassHenkka][website] 👋
 
-## I'm a Husband, a Developer and a constant Learner!
+## I'm a Husband, a Developer and a Constant Learner!
 
 - 🔭 I’m currently working as a Junior Developer for Anders Innovations while also studying a Bachelor of Engineering in Information and Communications Technology
 - 🌱 I’m currently learning everything related to Python, Django, React and React Native
@@ -38,11 +38,14 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="BadassHenkka's Github Stats" src="https://https://github-readme-stats.badasshenkka.vercel.app/api?username=BadassHenkka&show_icons=true&hide_border=true&hide=stars,issues&count_private=true&theme=radical" />
+  <img align="left" alt="BadassHenkka's Github Stats" src="https://github-readme-stats.badasshenkka.vercel.app/api?username=BadassHenkka&show_icons=true&hide_border=true&hide=stars,issues&count_private=true&theme=radical" />
 
-  <br />
+</details>
 
-  <img align="left" alt="BadassHenkka's Most Used Languages" src="https://https://github-readme-stats.badasshenkka.vercel.app/api/top-langs/?username=BadassHenkka&layout" />
+<details>
+  <summary>:zap: Github Most Used Languages</summary>
+
+  <img align="left" alt="BadassHenkka's Most Used Languages" src="https://github-readme-stats.badasshenkka.vercel.app/api/top-langs/?username=BadassHenkka&layout=compact" />
 
 </details>
 

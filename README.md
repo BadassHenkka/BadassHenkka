@@ -2,7 +2,7 @@
 
 ## I'm a Husband, a Developer and a Constant Learner!
 
-- 🔭 I’m currently working as a Junior Developer for Anders Innovations while also studying a Bachelor of Engineering in Information and Communications Technology
+- 🔭 I’m studying a Bachelor of Engineering degree in Information and Communications Technology
 - 🌱 I’m currently learning everything related to Python, Django, React and React Native
 
 ### Connect with me:

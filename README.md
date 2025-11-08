@@ -1,9 +1,9 @@
-### Hi there, I'm Henri - aka [BadassHenkka][website] 👋
+### Hi there, I'm Henri - aka BadassHenkka 👋
 
-## I'm a Husband, a Developer and a Constant Learner!
+## I'm a Husband, a Sofware Engineer and a Constant Learner!
 
-- 🔭 I’m studying a Bachelor of Engineering degree in Information and Communications Technology
-- 🌱 I’m currently learning everything related to Python, Typescript, React and DBaaS solutions provided by my :unicorn: employer [Aiven](https://aiven.io/)
+- 🔭 A Bachelor of Engineering degree in Information and Communications Technology
+- 🔨 Currently working on the [Aiven](https://aiven.io/) platform from front to back and in-between
 
 ### Connect with me:
 
@@ -13,17 +13,14 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Postgres" width="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-svg-vector.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Fedora" width="26px" src="https://seeklogo.com/images/F/fedora-logo-27E96FA10A-seeklogo.com.png" />
+<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/garrett/Tux/ecd40de64250ea2b24c849e901c3297ad01e54f6/tux.svg" />
 
 <br />
 <br />
@@ -44,5 +41,4 @@
 
 </details>
 
-[website]: https://badasshenkka.github.io/
 [linkedin]: https://fi.linkedin.com/in/henri-kestio
